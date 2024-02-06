@@ -21,6 +21,7 @@ h6 {
 }
 
 img {
+  margin: 30px;
   width: 100%;
 }
 
@@ -28,7 +29,7 @@ img {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
-  margin: 0;
+  margin: 30px;
   padding: 0;
 }
 
@@ -69,3 +70,13 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+.skip{
+  padding: 2px;
+  border: 2px solid black;
+  text-decoration: none;
+  margin: 100px;  
+  color: rgb(255, 255, 255);
+  background-color: #0F572F;
+  }
+
